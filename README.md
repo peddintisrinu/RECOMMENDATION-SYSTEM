@@ -26,3 +26,4 @@ To evaluate the performance of a recommendation system, metrics such as Root Mea
 
 #OUTPUT
 
+<img width="533" height="781" alt="Image" src="https://github.com/user-attachments/assets/3ec74542-d307-4f2b-89e0-745776d9d2b7" />
